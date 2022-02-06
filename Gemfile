@@ -37,6 +37,7 @@ gem 'ransack', '~> 2.4', '>= 2.4.2'
 gem 'kaminari', '~> 1.2', '>= 1.2.1'
 gem 'sidekiq', '~> 6.3', '>= 6.3.1'
 gem 'nokogiri', '~> 1.12', '>= 1.12.5'
+gem 'tailwindcss-rails', '~> 2.0', '>= 2.0.5'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
