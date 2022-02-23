@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2e52be50-5107-44d8-b66f-06cecde11ef2" name="変更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_head.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_head.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pets/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pets/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pets/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pets/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,6 +168,7 @@
       <workItem from="1645410759537" duration="1211000" />
       <workItem from="1645439881435" duration="2036000" />
       <workItem from="1645565729233" duration="86000" />
+      <workItem from="1645591424048" duration="136000" />
     </task>
     <servers />
   </component>
