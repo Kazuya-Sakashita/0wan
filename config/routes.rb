@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
-  root 'home#index'
+  root 'pets#index'
   devise_for :users
+  resources :pets
 end
